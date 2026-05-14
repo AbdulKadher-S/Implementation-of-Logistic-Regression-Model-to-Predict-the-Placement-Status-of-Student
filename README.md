@@ -71,28 +71,22 @@ print("Classification Report:\n", classification_report_output)
 
 ![image](https://github.com/user-attachments/assets/6d3166e2-7fd9-4582-8729-4ba68a64036b)
 
-COPY
+<H4>COPY</H4>
 ![image](https://github.com/user-attachments/assets/3e4ee2fa-f457-4c2c-a13a-d4791707c7d7)
 
-FIT TRANSFORM
-
+<h4>FIT TRANSFORM</h4>
 ![image](https://github.com/user-attachments/assets/b0e4a287-35b1-4c2d-b386-d20f8f62b772)
 
-LOGISTIC REGRESSION
-
+<h4>LOGISTIC REGRESSION</h4>
 ![image](https://github.com/user-attachments/assets/49664d5e-2913-456b-95fa-dd7ae5a15637)
 
-ACCURACY SCORE
-
+<h4>ACCURACY SCORE</h4>
 ![image](https://github.com/user-attachments/assets/0e91c61e-abcb-400f-a04f-c36ec2885d1c)
 
-CONFUSION MATRIX
-
+<h4>CONFUSION MATRIX</h4>
 ![image](https://github.com/user-attachments/assets/58ce1bb2-1678-4407-9b13-cf33fabb3cc9)
 
-
-CLASSIFICATION REPORT & PREDICTION
-
+<h4>CLASSIFICATION REPORT & PREDICTION</h4>
 ![image](https://github.com/user-attachments/assets/f1591a15-9289-4a4e-a284-20d5b58298b3)
 
 
