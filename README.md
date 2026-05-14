@@ -67,6 +67,33 @@ print("Classification Report:\n", classification_report_output)
 ```
 
 ## Output:
+HEAD
+
+![image](https://github.com/user-attachments/assets/6d3166e2-7fd9-4582-8729-4ba68a64036b)
+
+COPY
+![image](https://github.com/user-attachments/assets/3e4ee2fa-f457-4c2c-a13a-d4791707c7d7)
+
+FIT TRANSFORM
+
+![image](https://github.com/user-attachments/assets/b0e4a287-35b1-4c2d-b386-d20f8f62b772)
+
+LOGISTIC REGRESSION
+
+![image](https://github.com/user-attachments/assets/49664d5e-2913-456b-95fa-dd7ae5a15637)
+
+ACCURACY SCORE
+
+![image](https://github.com/user-attachments/assets/0e91c61e-abcb-400f-a04f-c36ec2885d1c)
+
+CONFUSION MATRIX
+
+![image](https://github.com/user-attachments/assets/58ce1bb2-1678-4407-9b13-cf33fabb3cc9)
+
+
+CLASSIFICATION REPORT & PREDICTION
+
+![image](https://github.com/user-attachments/assets/f1591a15-9289-4a4e-a284-20d5b58298b3)
 
 
 
